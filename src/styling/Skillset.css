@@ -1,0 +1,46 @@
+.skillset {
+  display: flex;
+  max-width: 750px;
+  padding: 3rem 0;
+  gap: 12rem;
+}
+
+.tools,
+.skills {
+  display: flex;
+  flex-direction: column;
+}
+
+.tools span,
+.skills span {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.tool,
+.skill {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+  gap: 10px;
+}
+
+/* .tool:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+} */
+
+.tool-icon,
+.skill-icon {
+  font-size: 2rem;
+  margin-right: 0.5rem;
+  border: 0.5px solid #cccccc;
+  border-radius: 8px;
+  padding: 0.75rem;
+}
+
+.tool span,
+.skill span {
+  font-size: 20px;
+  color: #333;
+}
