@@ -1,5 +1,5 @@
 .about-section {
-  max-width: 600px; /* Limit the width for readability */
+  max-width: 750px; /* Limit the width for readability */
   margin: 0 auto; /* Center the section on the page */
   padding: 5rem 0rem;
 }
@@ -7,6 +7,7 @@
 .about-section p {
   line-height: 1.5; /* Improve line spacing for better readability */
   margin-bottom: 0.5rem; /* Add space between paragraphs */
+  font-size: 20px;
 }
 
 .about-section span {

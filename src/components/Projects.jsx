@@ -20,7 +20,7 @@ const cardinfo = [
   {
     title: "AI & Quantum Physics",
     description:
-      "My research projects explore the intersection of AI and quantum physics, with a focus on developing novel algorithms and applications.",
+      "I'm passionate about exploring the fascinating worlds of AI and Physics, constantly learning and expanding my knowledge in these fields.",
     image: image,
     url: "https://www.google.com/",
   },
