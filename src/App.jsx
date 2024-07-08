@@ -1,6 +1,5 @@
 import "./App.css";
 import Header from "./components/Header.jsx";
-import Home from "./components/Home.jsx";
 import About from "./components/About.jsx";
 import Contact from "./components/Contact.jsx";
 import Projects from "./components/Projects.jsx";
@@ -15,9 +14,9 @@ function App() {
           <About />
           <Projects />
           <Contact />
-          <Routes>
-            {/* <Route path="/blog" element={<Blog />}/> */}
-          </Routes>
+        </div>
+        <div className="pages">
+          {/* <Routes><Route path="/blog" element={<Blog />}/></Routes> */}
         </div>
       </div>
     </Router>
